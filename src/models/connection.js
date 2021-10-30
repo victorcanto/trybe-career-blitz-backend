@@ -3,7 +3,7 @@ const { MongoClient } = require('mongodb');
 require('dotenv').config();
 
 const MONGO_DB_URL = process.env.MONGO_DB_URL || 'mongodb://127.0.0.1:27017/BlitzTasks';
-const DB_NAME = process.env.DB_NAME || 'Tasks';
+const DB_NAME = process.env.DB_NAME || 'BlitzTasks';
 
 const OPTIONS = {
   useNewUrlParser: true,

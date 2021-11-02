@@ -58,6 +58,7 @@ npm install
    PORT=
    MONGO_DB_URL=
    DB_NAME=BlitzTasks
+   JWT_SECRET=
   ```
 
  ## Executando aplicação

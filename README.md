@@ -1,5 +1,7 @@
 # Projeto Backend da Blitz de  Carreira
 
+[Deploy da API](https://victorcanto-blitztasks.herokuapp.com/user/register)
+
 ## Descrição
 Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. Neste projeto é possível fazer gerenciar tarefas entre
 

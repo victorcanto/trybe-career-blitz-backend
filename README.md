@@ -3,7 +3,7 @@
 [Deploy da API](https://victorcanto-blitztasks.herokuapp.com)
 
 ## Descrição
-Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. Neste projeto é possível fazer gerenciar tarefas entre
+Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC capaz de gerenciar as tarefas do usuário.
 
 ## Requisitos funcionais
 
